@@ -150,6 +150,6 @@ Built with ❤️ using React, Node.js, and Socket.io
 </div>
 🔗 Quick Links
 
-Live Demo (https://coderrbuddyy.netlify.app)
+Live Demo ((https://realtimecodecollaabrative.netlify.app))
 
 Happy Coding! 🎉
